@@ -32,7 +32,7 @@
 
 # Preview 📸 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1207786290976653343/1218250917913169990/Capture_decran_2024-03-15_173221.png?ex=6622ab14&is=66103614&hm=1e307e7ead8bf04cc1541d9398ffa76731a0f572274dca112f8ac2f4cc173c85&">
+<img src="https://cdn.discordapp.com/attachments/1207786290976653343/1236111688726741043/image.png?ex=666ed9f8&is=666d8878&hm=e74a7d94c4d18689efe8cab8bf30c11f3116d37af402af4b7d1549f55981e00f&">
 </p>
 
 Welcome to Shrek-Tools, a multifunctional tool with a multitude of options. All functions are unrestricted, and you will not have locks on your tokens. This tool can be used with or without proxies. We hope you enjoy it, and feel free to give it a star.
