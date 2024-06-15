@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <img alt="Contributors" src="https://img.shields.io/github/contributors/blackray207/Shrek-Tools?color=dark-green">
-  <img alt="Forks" src="https://img.shields.io/github/forks/blackray207/Shrek-Tools?style=social">
-  <img alt="Stargazers" src="https://img.shields.io/github/stars/blackray207/Shrek-Tools?style=social">
-  <img alt="License" src="https://img.shields.io/github/license/blackray207/Shrek-Tools">
+  <img alt="Contributors" src="https://img.shields.io/github/contributors/SHREK-TM/Shrek-Tools?color=dark-green">
+  <img alt="Forks" src="https://img.shields.io/github/forks/SHREK-TM/Shrek-Tools?style=social">
+  <img alt="Stargazers" src="https://img.shields.io/github/stars/SHREK-TM/Shrek-Tools?style=social">
+  <img alt="License" src="https://img.shields.io/github/license/SHREK-TM/Shrek-Tools">
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
     <img alt="Discord" src="https://img.shields.io/discord/1146496916419526727?label=&logo=discord&logoColor=ffffff&color=C50F1f&labelColor=C50F1f">
   </a>
   <a href="https://www.codefactor.io/repository/github/blackray207/Shrek-Tools">
-    <img src="https://www.codefactor.io/repository/github/blackray207/Shrek-Tools/badge" alt="CodeFactor" />
+    <img src="https://www.codefactor.io/repository/github/SHREK-TM/Shrek-Tools/badge" alt="CodeFactor" />
   </a>
     <img alt="lines" src="https://sloc.xyz/github/SHREK-TM/Shrek-Tools">
 </p>
