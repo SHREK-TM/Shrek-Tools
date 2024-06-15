@@ -1,7 +1,7 @@
 
 <br/>
 <p align="center">
-  <a href="https://github.com/blackray207/Shrek-Tools">
+  <a href="https://github.com/SHREK-TM/Shrek-Tools">
     <img src="https://www.freepnglogos.com/uploads/shrek-png/shrek-icon-web-icons-png-0.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -26,7 +26,7 @@
   <a href="https://www.codefactor.io/repository/github/blackray207/Shrek-Tools">
     <img src="https://www.codefactor.io/repository/github/blackray207/Shrek-Tools/badge" alt="CodeFactor" />
   </a>
-    <img alt="lines" src="https://sloc.xyz/github/blackray207/Shrek-Tools">
+    <img alt="lines" src="https://sloc.xyz/github/SHREK-TM/Shrek-Tools">
 </p>
 
 
@@ -46,7 +46,7 @@ make sure you disable your defender and run the setup.bat.
 
  clone the repository: 
 ```shell
-git clone --recursive https://github.com/blackray207/Shrek-Tools.git
+git clone --recursive https://github.com/SHREK-TM/Shrek-Tools.git
 ```
 Then enter the directory:
 ```shell
@@ -63,7 +63,7 @@ By using Shrek-Tools, you agree that you hold responsibility and accountability 
 
 ## License 📃
 
-Distributed under the MIT License. See [LICENSE](https://github.com/blackray207/Shrek-Tools/blob/main/LICENSE) for more information
+Distributed under the MIT License. See [LICENSE](https://github.com/SHREK-TM/Shrek-Tools/blob/main/LICENSE) for more information
 
 # Donation 🤑
 ```
