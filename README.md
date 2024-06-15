@@ -67,5 +67,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/SHREK-TM/Shr
 
 # Donation 🤑
 ```
-ETH: 0x6a982f026aaec5028b03187a7bacccc11c3e4438
+ETH: 0xbFacc0068b354D7c8a3Fd18Ff89B56329927ab07
 ```
