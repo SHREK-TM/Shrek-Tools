@@ -27,7 +27,7 @@
 </p>
 
 
-# Preview 📸 
+# Preview 📸 (Page 2 on Releases)
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/1207786290976653343/1251531974959693874/Capture_decran_2024-06-15_142134.png?ex=666eeb7b&is=666d99fb&hm=19b43ba29f915c5d4609da3549d5948bbc5a574e644f498cc8a12a9812f5e191&">
 </p>
