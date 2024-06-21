@@ -8,13 +8,12 @@
   <h3 align="center">Shrek-Tools</h3>
 
   <p align="center">
-    <a href="https://discord.gg/V2EFYBWw5Q">Discord</a>
+    <a href="https://discord.gg/V2EFYBWw5Q">JOIN OUR DISCORD</a>
   </p>
 </p>
 
 <p align="center">
   <img alt="Downloads" src="https://img.shields.io/github/downloads/SHREK-TM/Shrek-Tools/total">
-  <img alt="Contributors" src="https://img.shields.io/github/contributors/SHREK-TM/Shrek-Tools?color=dark-green">
   <img alt="Forks" src="https://img.shields.io/github/forks/SHREK-TM/Shrek-Tools?style=social">
   <img alt="Stargazers" src="https://img.shields.io/github/stars/SHREK-TM/Shrek-Tools?style=social">
   <img alt="License" src="https://img.shields.io/github/license/SHREK-TM/Shrek-Tools">
