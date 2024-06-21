@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/SHREK-TM/Shrek-Tools">
-    <img src="https://www.freepnglogos.com/uploads/shrek-png/shrek-icon-web-icons-png-0.png" alt="Logo" width="80" height="80">
+    <img src="https://www.freepnglogos.com/uploads/shrek-png/shrek-icon-web-icons-png-0.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Shrek-Tools</h3>
