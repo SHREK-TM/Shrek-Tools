@@ -13,6 +13,7 @@
 </p>
 
 <p align="center">
+  <img alt="Downloads" src="https://img.shields.io/github/downloads/SHREK-TM/Shrek-Tools/total">
   <img alt="Contributors" src="https://img.shields.io/github/contributors/SHREK-TM/Shrek-Tools?color=dark-green">
   <img alt="Forks" src="https://img.shields.io/github/forks/SHREK-TM/Shrek-Tools?style=social">
   <img alt="Stargazers" src="https://img.shields.io/github/stars/SHREK-TM/Shrek-Tools?style=social">
@@ -22,10 +23,6 @@
 <p align="center">
   <a href="https://discord.gg/V2EFYBWw5Q">
     <img alt="Discord" src="https://img.shields.io/discord/1146496916419526727?label=&logo=discord&logoColor=ffffff&color=C50F1f&labelColor=C50F1f">
-  </a>
-  <a href="https://www.codefactor.io/repository/github/blackray207/Shrek-Tools">
-    <img src="https://www.codefactor.io/repository/github/SHREK-TM/Shrek-Tools/badge" alt="CodeFactor" />
-  </a>
     <img alt="lines" src="https://sloc.xyz/github/SHREK-TM/Shrek-Tools">
 </p>
 
