@@ -1,3 +1,8 @@
+# Shrek was proudly coded by Shrek™ [https://github.com/SHREK-TM].
+# Copyright © Shrek Multi Tools
+
+####################################################################
+
 from socket import socket, AF_INET, SOCK_DGRAM
 from threading import Thread
 from random import choices, randint
