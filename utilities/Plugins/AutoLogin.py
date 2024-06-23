@@ -1,4 +1,4 @@
-# Shrek was proudly coded by Shrek™ [https://github.com/blackray207].
+# Shrek was proudly coded by Shrek™ [https://github.com/SHREK-TM].
 # Copyright © Shrek Multi Tools
 
 ####################################################################
