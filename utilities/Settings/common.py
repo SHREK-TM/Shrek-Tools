@@ -477,8 +477,8 @@ shrek = r'''
 ░ ░▒  ░    ▒ ░▒░ ░  ░▒ ░ ▒░ ░ ░   ░ ░▒ ▒░
 ░  ░  ░    ░  ░░ ░   ░   ░    ░   ░ ░░ ░ 
       ░    ░  ░  ░   ░        ░   ░  ░   
-
-         Github.com/blackray207           
+      
+          Github.com/SHREK-TM           
 '''
 System.Size(120, 30)
 System.Clear()
