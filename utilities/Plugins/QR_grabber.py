@@ -1,3 +1,8 @@
+# Shrek was proudly coded by Shrek™ [https://github.com/SHREK-TM].
+# Copyright © Shrek Multi Tools
+
+####################################################################
+
 import os
 import sys
 import json
