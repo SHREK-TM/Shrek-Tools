@@ -3737,7 +3737,7 @@ Press ENTER to continue... ''')
     print(Fore.GREEN + '')
     print(f'  {Fore.WHITE}┌──<{user_name}{Fore.GREEN}@{Fore.WHITE}Shrek>─{Fore.GREEN}[{Fore.WHITE}+{Fore.GREEN}]')
     global options
-    option2 = input(f'  {Fore.WHITE}└───{Fore.GREEN}>{Fore.WHITE} ')
+    option2 = input(f'  {Fore.WHITE}└───{Fore.GREEN}➤{Fore.WHITE} ')
 
 
     if option2 in ['28']:
