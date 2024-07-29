@@ -65,5 +65,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/SHREK-TM/Shr
 ```
 ETH: 0x0C143Ee5b0CAa2633A4Fd1CB34BBE98Ed9597B34
 BTC: bc1ql0as4mpmhwy7fr352dy9jekftpye5l2egl46f2
-
+TON: UQBJHpatGYG5gc_bggwlqNQKAHxE1OGAQ9PJ4zE7-UbdR671
 ```
