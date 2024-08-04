@@ -4,7 +4,11 @@ python --version 3>NUL
 if errorlevel 1 goto errorNoPython
 pip -v>NUL
 if errorlevel 1 goto errorNoPip
-python -m pip install -r requirements.txt
+pip install subprocess
+cd utilities\Settings
+python module.py
+cd ..
+cd ..
 move utilities\Start.bat .
 cd utilities\Settings
 cd ..
