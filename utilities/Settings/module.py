@@ -1,6 +1,7 @@
 import subprocess
 
 packages = [
+    "pylibcheck"
     "requests",
     "setuptools",
     "colorama",
