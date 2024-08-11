@@ -37,6 +37,55 @@ make sure you disable your defender and run the setup.bat.
 
 > **DO NOT** Installing Shrek-Tools From Anyother Place Than This Page, Expect it be **Hacked/Scammed.**
 
+# Functions⚙️
+```
+
+   ┌── [+] TOKEN NUKERS
+   │    ├── FLASHBANG
+   │    ├── MASS CREATE SERVERS + CHANNELS
+   │    ├── MASS BLOCK
+   │    ├── DELETE ALL PERSONAL SERVERS
+   │    ├── LEAVE ALL SERVERS
+   │    └── NUKE ACCOUNT
+   │
+   ├── [+] WEBHOOK RAIDER
+   │    ├── CHECK WEBHOOK
+   │    ├── WEBHOOK INFO
+   │    ├── DELETE WEBHOOK
+   │    ├── SPAM WEBHOOK
+   │    ├── CREATE WEBHOOKS
+   │    └── CREATE + SPAM WEBHOOKS
+   │
+   ├── [+] TOKEN LEAVER
+   ├── [+] TOKEN ONLINER
+   ├── [+] TOKEN JOINER
+   ├── [+] SERVER NUKER
+   ├── [+] SERVER SPAMMER
+   ├── [+] FRIEND SPAMMER
+   ├── [+] GROUPCHAT SPAMMER
+   ├── [+] TOKEN GEN
+   ├── [+] NITRO GEN
+   ├── [+] PROXY GEN
+   ├── [+] GRABBER GEN 
+   ├── [+] QR GRABBER GEN
+   ├── [+] RAT BOT GEN
+   ├── [+] ID GEN
+   ├── [+] NAME GEN
+   ├── [+] DDOS ATTACKER
+   ├── [+] TOKEN BRUTE-FORCER
+   ├── [+] TOKEN CHECKER
+   ├── [+] TOKEN LOGIN
+   ├── [+] TOKEN INFO
+   ├── [+] PFP CHANGER
+   ├── [+] HYPEQUAD CHANGER
+   ├── [+] BIO CHANGER
+   ├── [+] ID TO TOKEN
+   ├── [+] MASE REPORT
+   ├── [+] VC SPAMMER
+   ├── [+] SERVER LOOKUP
+   └── [+] REACTION SPAMMER
+ 
+```
 ### Installation⚡
 
  clone the repository: 
@@ -60,6 +109,9 @@ By using Shrek-Tools, you agree that you hold responsibility and accountability 
 
 Distributed under the MIT License. See [LICENSE](https://github.com/SHREK-TM/Shrek-Tools/blob/main/LICENSE) for more information
 
+# Credits 🔗
+- Creator: blackray.207
+<a href="https://discord.gg/V2EFYBWw5Q">DISCORD</a>
 # Donation 🤑
 ```
 ETH: 0x0C143Ee5b0CAa2633A4Fd1CB34BBE98Ed9597B34
