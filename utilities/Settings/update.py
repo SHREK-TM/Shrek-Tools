@@ -51,7 +51,7 @@ def search_for_updates():
             ),
             end="\n\n",
         )
-        soup = BeautifulSoup(requests.get("https://github.com/blackray207/Shrek-Tools/releases").text, 'html.parser')
+        soup = BeautifulSoup(requests.get("https://github.com/SHREK-TM/Shrek-Tools/releases").text, 'html.parser')
         for link in soup.find_all('a'):
             if "releases/download" in str(link):
                 update_url = f"https://github.com/{link.get('href')}"
