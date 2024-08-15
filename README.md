@@ -33,8 +33,6 @@
 
 
 # Warning❗
-make sure you disable your defender and run the setup.bat.
-
 > **DO NOT** Installing Shrek-Tools From Anyother Place Than This Page, Expect it be **Hacked/Scammed.**
 
 # Functions⚙️
