@@ -1,4 +1,3 @@
-⁸
 <br/>
 <p align="center">
   <a href="https://github.com/SHREK-TM/Shrek-Tools">
