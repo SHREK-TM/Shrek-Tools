@@ -7,7 +7,7 @@
   <h3 align="center">Shrek-Tools</h3>
 
   <p align="center">
-    <a href="https://discord.gg/hAHv55naQu">JOIN OUR DISCORD</a>
+    <a href="https://discord.gg/S5j9cZVmev">JOIN OUR DISCORD</a>
   </p>
 </p>
 
