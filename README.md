@@ -7,7 +7,7 @@
   <h3 align="center">Shrek-Tools</h3>
 
   <p align="center">
-    <a href="https://discord.gg/S5j9cZVmev">JOIN OUR DISCORD</a>
+    <a href="https://discord.gg/JKsRYZ244U">JOIN OUR DISCORD</a>
   </p>
 </p>
 
@@ -108,4 +108,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/SHREK-TM/Shr
 
 # Credits 🔗
 - Fondator: neyrox_space
-<a href="https://discord.gg/V2EFYBWw5Q">DISCORD</a>
+<a href="https://discord.gg/JKsRYZ244U">DISCORD</a>
