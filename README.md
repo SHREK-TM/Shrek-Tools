@@ -107,11 +107,5 @@ By using Shrek-Tools, you agree that you hold responsibility and accountability 
 Distributed under the MIT License. See [LICENSE](https://github.com/SHREK-TM/Shrek-Tools/blob/main/LICENSE) for more information
 
 # Credits 🔗
-- Creator: blackray.207
+- Fondator: neyrox_space
 <a href="https://discord.gg/V2EFYBWw5Q">DISCORD</a>
-# Donation 🤑
-```
-ETH: 0x5A370674C7684150ca47C1354409dA6252e80dC7
-BTC: bc1qjnjjan0yyqdtxlf3ldrwecmdghgu3d6j3c43xk
-TON: UQBJHpatGYG5gc_bggwlqNQKAHxE1OGAQ9PJ4zE7-UbdR671
-```
