@@ -26,7 +26,7 @@
 
 # Preview  (page2 on [Releases](https://github.com/SHREK-TM/Shrek-Tools/releases))📸
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1272681811335446609/1277742707103764583/350390818-ed208c18-9958-45b6-8a28-dfbe6977507f.png?ex=66ce4620&is=66ccf4a0&hm=572fef662ebb8ad3201b814c91e352c62d89f040184f02c44aa8af2d0d59e35b&">
+<img src="https://photos.google.com/photo/AF1QipNc8Xnu4oBdO83jakHQ8Hkvl-Ed8TGWVik6Fi2-">
 </p>
 
 
