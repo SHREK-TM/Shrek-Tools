@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/github/forks/SHREK-TM/Shrek-Tools?style=flat&label=Forks&color=3bc400">
   <img src="https://img.shields.io/github/stars/SHREK-TM/Shrek-Tools?style=flat&label=Stars&color=3bc400">
   <img src="https://img.shields.io/github/repo-size/SHREK-TM/Shrek-Tools?label=Size&color=3bc400">
-  <img alt="Downloads" src="https://img.shields.io/github/downloads/SHREK-TM/Shrek-Tools/total">
+  <img src="https://img.shields.io/github/downloads/SHREK-TM/Shrek-Tools/total?label=Downloads&color=3bc400">
 </p>
 
 <p align="center">
