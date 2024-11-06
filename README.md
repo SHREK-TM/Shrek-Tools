@@ -4,7 +4,7 @@
     <img src="https://i.imghippo.com/files/Fpq9323Wk.png" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">Shrek-Tools</h3>
+  <h3 align="center">🟢 Shrek-Tools</h3>
 
   <p align="center">
     <a href="https://discord.gg/JKsRYZ244U">JOIN OUR DISCORD</a>
