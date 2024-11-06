@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/SHREK-TM/Shrek-Tools">
-    <img src="https://files.fm/f/ptumthb2zx" alt="Logo" width="150" height="150">
+    <img src="https://i.imghippo.com/files/Fpq9323Wk.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Shrek-Tools</h3>
@@ -26,10 +26,10 @@
 
 # Preview 📸
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1278319934941827165/1301975252519354518/350390818-ed208c18-9958-45b6-8a28-dfbe6977507f_1.png?ex=67266e71&is=67251cf1&hm=e25c59c5185e85e8200508b782987ede13799525c5a1a4f9fd3576b392c55e80&"> 
+<img src="https://i.imghippo.com/files/Dk6209oo.png"> 
 </p>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1278319934941827165/1301975261784571964/350390848-3a45541d-7c5f-4237-a249-b4f3636a6c5e_1.png?ex=67266e73&is=67251cf3&hm=c22f23f51f0c90b6703a7ec35840cdbec2d1277b8f078905aa7b6a76fd55c51e&"> 
+<img src="https://i.imghippo.com/files/Ovf7799hQ.png"> 
 </p>
 
 
