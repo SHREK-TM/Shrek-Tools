@@ -1800,7 +1800,7 @@ def tool():
 
 
     if whichserver == 1:
-      webbrowser.open('https://discord.gg/Sa4PzQhKWr')
+      webbrowser.open('https://discord.gg/JKsRYZ244U')
     elif whichserver == 2:
       webbrowser.open('https://github.com/SHREK-TM')
     elif whichserver == 0:
