@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/SHREK-TM/Shrek-Tools">
-    <img src="https://cdn.discordapp.com/attachments/1207786290976653343/1301976835319529502/161427467.png?ex=67266feb&is=67251e6b&hm=e01ef583bf38135a140e8779ee712d5d68ce4ca0f750a28b1caf4332d716dd29&" alt="Logo" width="150" height="150">
+    <img src="https://files.fm/f/ptumthb2zx" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Shrek-Tools</h3>
