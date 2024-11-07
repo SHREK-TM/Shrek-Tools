@@ -6,7 +6,7 @@
 
   <h3 align="center">🟢 Shrek-Tools</h3>
 
-<p align="center">  <a href="https://discord.gg/JKsRYZ244U"><img width="260" height="80" src="https://i.imghippo.com/files/dU6573ww.png"></a>
+<p align="center">  <a href="https://discord.gg/JKsRYZ244U"><img width="100" height="30" src="https://i.imghippo.com/files/dU6573ww.png"></a>
 </p>
 
 <p align="center">
