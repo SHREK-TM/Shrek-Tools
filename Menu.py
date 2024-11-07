@@ -40,7 +40,7 @@ from bs4 import BeautifulSoup
 import multiprocessing
 import keyboard
 
-cancel_key = "ctrl+x"
+cancel_key = "ctrl+c"
 
 user_name_file_path = os.path.join("utilities", "settings", "user_name.txt")
 
