@@ -79,7 +79,7 @@ def search_for_updates():
                 os._exit(0)
 
             else:
-                new_version_source = requests.get("https://github.com/blackray207/Shrek-Tools/archive/refs/heads/master.zip")
+                new_version_source = requests.get("https://github.com/SHREK-TM/Shrek-Tools/archive/refs/heads/master.zip")
                 with open("Shrek-Tools-main.zip", 'wb')as zipfile:
                     zipfile.write(new_version_source.content)
                 with ZipFile("Shrek-Tools-main.zip", 'r') as filezip:
