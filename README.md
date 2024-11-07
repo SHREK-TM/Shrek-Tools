@@ -6,17 +6,13 @@
 
   <h3 align="center">🟢 Shrek-Tools</h3>
 
-  <p align="center">
-    <a href="https://discord.gg/JKsRYZ244U">JOIN OUR DISCORD</a>
-  </p>
+<p align="center">  <a href="https://t.me/learneverything9"><img width="260" height="80" src="https://i.imghippo.com/files/dU6573ww.png"></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/forks/SHREK-TM/Shrek-Tools?style=flat&label=Forks&color=3bc400">
   <img src="https://img.shields.io/github/stars/SHREK-TM/Shrek-Tools?style=flat&label=Stars&color=3bc400">
   <img src="https://img.shields.io/github/repo-size/SHREK-TM/Shrek-Tools?label=Size&color=3bc400">
-  <img src="https://img.shields.io/github/downloads/SHREK-TM/Shrek-Tools/total?label=Downloads&color=3bc400">
-</p>
 
 <p align="center">
   <a href="https://discord.gg/V2EFYBWw5Q">
