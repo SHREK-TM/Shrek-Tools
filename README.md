@@ -34,6 +34,7 @@
 
 # Functions⚙️
 ```
+M = multi-option (Ex: [1] TOKEN NUKERS)
 
    ┌── [+] TOKEN NUKERS
    │    ├── FLASHBANG
