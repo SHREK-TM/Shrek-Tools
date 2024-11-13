@@ -1793,6 +1793,7 @@ def tool():
     whichserver = int(input(f"""
   {Fore.GREEN}[{Fore.WHITE}1{Fore.GREEN}] {Fore.WHITE}Shrek™ Discord server
   {Fore.GREEN}[{Fore.WHITE}2{Fore.GREEN}] {Fore.WHITE}Shrek™ Github
+  {Fore.GREEN}[{Fore.WHITE}2{Fore.GREEN}] {Fore.WHITE}Shrek™ Founder  
   {Fore.GREEN}[{Fore.WHITE}0{Fore.GREEN}] EXIT
 
 
@@ -1802,7 +1803,27 @@ def tool():
     if whichserver == 1:
       webbrowser.open('https://discord.gg/JKsRYZ244U')
     elif whichserver == 2:
-      webbrowser.open('https://github.com/SHREK-TM')
+      webbrowser.open('https://github.com/SHREK-TM/Shrek-Tools')
+    elif whichserver == 3:
+      print(f'''
+{Fore.GREEN}
+    ██████   ██░ ██  ██▀███  ▓█████ ▀██ ▄█▀    ▄▄▄█████▓  ███▄ ▄███▓    
+  ▒██    ▒ ▒▓██░ ██ ▓██ ▒ ██▒▓█   ▀  ██▄█▒     ▓  ██▒ ▓▒ ▓██▒▀█▀ ██▒    
+  ░ ▓██▄   ░▒██▀▀██ ▓██ ░▄█ ▒▒███   ▓███▄░     ▒ ▓██░ ▒░ ▓██    ▓██░    
+    ▒   ██▒ ░▓█ ░██ ▒██▀▀█▄  ▒▓█  ▄ ▓██ █▄     ░ ▓██▓ ░  ▒██    ▒██     
+  ▒██████▒▒ ░▓█▒░██▓░██▓ ▒██▒░▒████ ▒██▒ █▄      ▒██▒ ░ ▒▒██▒   ░██▒    
+  ▒ ▒▓▒ ▒ ░  ▒ ░░▒░▒░ ▒▓ ░▒▓░░░ ▒░  ▒ ▒▒ ▓▒      ▒ ░░   ░░ ▒░   ░  ░    
+  ░ ░▒  ░    ▒ ░▒░ ░  ░▒ ░ ▒░ ░ ░   ░ ░▒ ▒░        ░    ░░  ░      ░    
+  ░  ░  ░    ░  ░░ ░   ░   ░    ░   ░ ░░ ░       ░ ░     ░      ░       
+        ░    ░  ░  ░   ░        ░   ░  ░                ░       ░       
+
+
+    ''')  
+      print(f'''{Fore.GREEN} Github: {Fore.WHITE}https://github.com/SHREK-TM''')
+      print(f'''{Fore.GREEN} Discors: {Fore.WHITE}neyrox_space ''')
+      os.system("pause")
+      tool()
+      return
     elif whichserver == 0:
       tool()
       return
