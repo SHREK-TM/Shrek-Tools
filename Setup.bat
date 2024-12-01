@@ -31,7 +31,7 @@ if errorlevel 1 (
 )
 
 cls
-set LIBRARIES=pylibcheck requests setuptools colorama bs4 selenium discord discum pyinstaller qrcode python-http-client charset_normalizer 2captcha-python beautifulsoup4 pyperclip pypiwin32 packaging keyboard colored PyNaCl easygui tasksio colour pillow psutil emoji httpx tqdm websocket Cipher Popen login pipe fore aes loads pystyle pyautogui pyfadecolor
+set LIBRARIES=setuptools==65.5.0 pip==22.3.1 wheel requests==2.26.0 colorama selenium==4.0.0 discord==2.5.1 pyinstaller qrcode python-http-client charset_normalizer==2.0.10 2captcha-python beautifulsoup4 pyperclip pypiwin32 packaging keyboard colored PyNaCl easygui tasksio colour pillow psutil emoji httpx tqdm websocket Cipher Popen login pipe fore aes loads pystyle pyautogui pyfadecolor
 
 for %%L in (%LIBRARIES%) do (
     python -m pip install "%%L" --upgrade --quiet
