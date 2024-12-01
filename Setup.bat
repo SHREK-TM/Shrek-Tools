@@ -1,9 +1,24 @@
 @echo off
 Title Download Library...
 
-python --version >nul 2>&1
+for /f "tokens=2 delims= " %%v in ('python --version 2^>nul') do (
+    for /f "tokens=1,2 delims=." %%i in ("%%v") do (
+        if %%i lss 3 (
+            echo Warning: Python version must be >= 3.11.
+            pause
+            goto :eof
+        )
+        if %%i==3 if %%j lss 11 (
+            echo Warning: Python version must be >= 3.11.
+            pause
+            goto :eof
+        )
+    )
+)
+
+where python >nul 2>&1
 if errorlevel 1 (
-    echo Warning: Python is not installed or not in the PATH.
+    echo Python is not added to PATH. Please reinstall Python and check "Add to PATH" option.
     pause
     goto :eof
 )
@@ -15,25 +30,21 @@ if errorlevel 1 (
     goto :eof
 )
 
-cd utilities\Settings
-python module.py
-cd ..\..
-
-move utilities\Start.bat . >nul 2>&1
-
 cls
 set LIBRARIES=pylibcheck requests setuptools colorama bs4 selenium discord discum pyinstaller qrcode python-http-client charset_normalizer 2captcha-python beautifulsoup4 pyperclip pypiwin32 packaging keyboard colored PyNaCl easygui tasksio colour pillow psutil emoji httpx tqdm websocket Cipher Popen login pipe fore aes loads pystyle pyautogui pyfadecolor
 
 for %%L in (%LIBRARIES%) do (
-    python -c "import %%L" >nul 2>&1
-    if %errorlevel% neq 0 (
-        pip install %%L
-    )
+    python -m pip install "%%L" --upgrade --quiet
 )
+
+(
+    echo @echo off
+    echo Python Menu.py
+) > Start.bat
 
 if exist Start.bat (
     Start Start.bat
 ) else (
-    echo Warning: Start.bat not found.
+    echo Warning: Start.bat could not be created.
     pause
 )
