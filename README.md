@@ -33,9 +33,11 @@
 > **DO NOT** Installing Shrek-Tools From Anyother Place Than This Page, Expect it be **Hacked/Scammed.**
 
 # Functions⚙️
-```
-M = multi-option (Ex: [1] TOKEN NUKERS)
 
+```
+M = multi-option (Exemple: [1] TOKEN NUKERS)
+```
+```
    ┌── [+] TOKEN NUKERS
    │    ├── FLASHBANG
    │    ├── MASS CREATE SERVERS + CHANNELS
@@ -84,15 +86,14 @@ M = multi-option (Ex: [1] TOKEN NUKERS)
 ```
 ### Installation⚡
 
- clone the repository: 
-```shell
-git clone --recursive https://github.com/SHREK-TM/Shrek-Tools.git
-```
-Then enter the directory:
-```shell
-cd Shrek-Tools
-```
-Finally just run Setup.bat and wait for it to complete.
+1-Download Shrek-Tools.zip
+2-Extract File
+3-Finally just run Setup.bat and wait for it to complete.
+
+Enjoy!
+
+NOTE: When Opening Shrek-Tools Just Tap "Start.bat" to Open Everytime!
+NOTE: Make sure you have Python 3.11+ and Added to Path.
 
 ## Disclaimer❗
 
@@ -106,7 +107,7 @@ By using Shrek-Tools, you agree that you hold responsibility and accountability 
 Distributed under the MIT License. See [LICENSE](https://github.com/SHREK-TM/Shrek-Tools/blob/main/LICENSE) for more information
 
 # Credits 🔗
-• Owner: neyrox_space
+• Made by: neyrox_space
 <a href="https://discord.gg/JKsRYZ244U">DISCORD</a>
 
 # Support the Project 💎
