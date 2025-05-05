@@ -87,7 +87,9 @@ M = multi-option (Exemple: [1] TOKEN NUKERS)
 ### Installation⚡
 
 1-Download Shrek-Tools.zip
+
 2-Extract File
+
 3-Finally just run Setup.bat and wait for it to complete.
 
 Enjoy!
