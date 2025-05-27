@@ -9,7 +9,6 @@ from utilities.Settings.update import *
 from utilities.Settings.libarys import *
 
 import utilities.Plugins.massreport
-import utilities.Plugins.QR_grabber
 
 import colorama
 from selenium import webdriver
