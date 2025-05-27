@@ -112,7 +112,7 @@ def tool():
     print(Fore.GREEN +f'                 ║     [{Fore.WHITE}09{Fore.GREEN}] {Fore.WHITE}GROUPCHAT SPAMMER   {Fore.GREEN}║     {Fore.GREEN}[{Fore.WHITE}18{Fore.GREEN}] {Fore.WHITE}DDOS ATTACKER   {Fore.GREEN}║     {Fore.GREEN}[{Fore.WHITE}27{Fore.GREEN}] {Fore.WHITE}MASE REPORT     {Fore.GREEN}    ║')
     print(Fore.GREEN + '                 ║                              ║                          ║                              ║')
     print(Fore.GREEN + '                 ╚══════════════════════════════╩══════════════════════════╩══════════════════════════════╝')
-    print(Fore.GREEN +f'                                                                                          {Fore.GREEN}[{Fore.WHITE}>{Fore.GREEN}] {Fore.WHITE}NEXT PAGE')
+    print(Fore.GREEN +f'                                                                                          {Fore.GREEN}[{Fore.WHITE}N{Fore.GREEN}] {Fore.WHITE}NEXT PAGE')
     print(Fore.GREEN + '')
     print(f'  {Fore.WHITE}┌──<{user_name}{Fore.GREEN}@{Fore.WHITE}Shrek>─{Fore.GREEN}[{Fore.WHITE}+{Fore.GREEN}]')
     global options
@@ -178,7 +178,7 @@ def tool():
    {Fore.GREEN}[{Fore.WHITE}03{Fore.GREEN}] {Fore.WHITE}MASS BLOCK
    {Fore.GREEN}[{Fore.WHITE}04{Fore.GREEN}] {Fore.WHITE}DELETE ALL PERSONAL SERVERS 
    {Fore.GREEN}[{Fore.WHITE}05{Fore.GREEN}] {Fore.WHITE}LEAVE ALL SERVERS
-   {Fore.GREEN}[{Fore.WHITE}06{Fore.GREEN}] {Fore.RESET}{Fore.RED}ULTIMATE ATTACK{Fore.RESET}
+   {Fore.GREEN}[{Fore.WHITE}06{Fore.GREEN}] {Fore.RESET}{Fore.MAGENTA}ULTIMATE NUKE{Fore.RESET}
    {Fore.GREEN}[{Fore.WHITE}00{Fore.GREEN}] EXIT
 
    {Fore.GREEN}[{Fore.WHITE}>{Fore.GREEN}]{Fore.WHITE}""")
@@ -710,7 +710,7 @@ def tool():
     while __name__ == '__main__' and options4 not in ['0','00']:
       print(Fore.WHITE)
       os.system('pause')
-      tokennuke()
+      tool()
 
   global tokeninfo
   def tokeninfo():
@@ -780,7 +780,7 @@ def tool():
 
     print(f'{Fore.RESET}Profile Picture: {Fore.GREEN}{pfp}')
     if r.json()['banner'] == 'null':
-        print(f'{Fore.RESET}Banner:{Fore.RED} None')
+        print(f'{Fore.RESET}Banner:{Fore.MAGENTA} None')
     else:
         banner = f'https://cdn.discordapp.com/banners/{r.json()["id"]}/{r.json()["banner"]}'
         print(f'{Fore.RESET}Banner: {Fore.GREEN}{banner}')
@@ -790,7 +790,7 @@ def tool():
     print(f'{Fore.RESET}2fa: {Fore.GREEN}{r.json()["mfa_enabled"]}')
     print(f'{Fore.RESET}Email Verifed: {Fore.GREEN}{r.json()["verified"]}')
     if r.json()['phone'] == 'null' or 'Null' or 'None' or '':
-        print(f'{Fore.RESET}Phone Verification:{Fore.RED} False')
+        print(f'{Fore.RESET}Phone Verification:{Fore.MAGENTA} False')
     else:
         print(f'{Fore.RESET}Phone Verification:{Fore.GREEN} True')
     print(f'{Fore.RESET}Public Flags: {Fore.GREEN}{r.json()["public_flags"]}')
@@ -2534,7 +2534,7 @@ if __name__ == '__main__':
                 if r.status_code == 200 or 204:
                     print(f"{Fore.LIGHTGREEN_EX}[+]{Fore.RESET} Banned {line} ")
                 else:
-                    print(f'{Fore.LIGHTRED_EX}[-]{Fore.RESET} You cant ban members') 
+                    print(f'{Fore.MAGENTA}[-]{Fore.RESET} You cant ban members') 
     class UNuker:
         def DeleteChannels(self, guild, channel):
             while True:
@@ -2632,7 +2632,7 @@ if __name__ == '__main__':
                         print(f"{Fore.LIGHTGREEN_EX}[+]{Fore.RESET} Created Channel ")
                         break
                     else:
-                        print(f'{Fore.LIGHTRED_EX}[-]{Fore.RESET} You cant create channels')
+                        print(f'{Fore.MAGENTA}[-]{Fore.RESET} You cant create channels')
 
 
 
@@ -2648,7 +2648,7 @@ if __name__ == '__main__':
                         print(f"{Fore.LIGHTGREEN_EX}[+]{Fore.RESET} Created Role ")
                         break
                     else:
-                        print(f'{Fore.LIGHTRED_EX}[-]{Fore.RESET} You cant create roles')
+                        print(f'{Fore.MAGENTA}[-]{Fore.RESET} You cant create roles')
                         break
 
         async def NukeStart(self):
@@ -2901,7 +2901,7 @@ if __name__ == '__main__':
         with open(user_name_file_path, "w") as file:
             file.write(user_name)
         print(Fore.GREEN +f'''
-{Fore.YELLOW}[{Fore.WHITE}INFO{Fore.YELLOW}] {Fore.WHITE}Username updated successfully, {Fore.RED}({Fore.WHITE}restart the programe{Fore.RED}){Fore.WHITE}!
+{Fore.YELLOW}[{Fore.WHITE}INFO{Fore.YELLOW}] {Fore.WHITE}Username updated successfully, {Fore.MAGENTA}({Fore.WHITE}restart the programe{Fore.MAGENTA}){Fore.WHITE}!
 ''') 
         os.system('pause')
         tool()
@@ -3580,7 +3580,7 @@ client.run(token)""".replace("~~TOKENHERE~~'", tokenbot + "'; g = [" + guildid +
 
 
     except Exception as e:
-        print(f"""\n\n\n\n {Fore.RED}[{Fore.WHITE}INFO{Fore.RED}] {Fore.WHITE} Error writing file: {e}""")
+        print(f"""\n\n\n\n {Fore.MAGENTA}[{Fore.WHITE}INFO{Fore.MAGENTA}] {Fore.WHITE} Error writing file: {e}""")
         clear()
 
     print(f"""\n\n\n {Fore.YELLOW}[{Fore.WHITE}INFO{Fore.YELLOW}] {Fore.WHITE}File has been correctly written to "output/{fileName}.py" """)
@@ -3758,7 +3758,7 @@ Press ENTER to continue... ''')
     print(Fore.GREEN +f'                 ║     ({Fore.WHITE}N{Fore.GREEN}/{Fore.WHITE}A{Fore.GREEN})                    ║     {Fore.GREEN}({Fore.WHITE}N{Fore.GREEN}/{Fore.WHITE}A{Fore.GREEN})                ║     {Fore.GREEN}({Fore.WHITE}N{Fore.GREEN}/{Fore.WHITE}A{Fore.GREEN})                    ║')
     print(Fore.GREEN + '                 ║                              ║                          ║                              ║')
     print(Fore.GREEN + '                 ╚══════════════════════════════╩══════════════════════════╩══════════════════════════════╝')
-    print(Fore.GREEN +f'                                                                                          {Fore.GREEN}[{Fore.WHITE}<{Fore.GREEN}] {Fore.WHITE}PREVIOUS PAGE')
+    print(Fore.GREEN +f'                                                                                          {Fore.GREEN}[{Fore.WHITE}P{Fore.GREEN}] {Fore.WHITE}PREVIOUS PAGE ')
     print(Fore.GREEN + '')
     print(f'  {Fore.WHITE}┌──<{user_name}{Fore.GREEN}@{Fore.WHITE}Shrek>─{Fore.GREEN}[{Fore.WHITE}+{Fore.GREEN}]')
     global options
@@ -3825,7 +3825,7 @@ Press ENTER to continue... ''')
         i+=1
         print(f"""{Fore.YELLOW}[{Fore.WHITE}-{Fore.YELLOW}] {Fore.WHITE}Joined VC""")
         sleep(0.01)
-      yay = input(f"""{Fore.RED}[{Fore.WHITE}!{Fore.RED}] {Fore.WHITE}Press ENTER to Stop VC Spammer!""")
+      yay = input(f"""{Fore.MAGENTA}[{Fore.WHITE}!{Fore.MAGENTA}] {Fore.WHITE}Press ENTER to Stop VC Spammer!""")
 
     elif option2 in ['29']:
       ctypes.windll.kernel32.SetConsoleTitleW("Shrek Multi Tools | Server Lookup")
@@ -3871,7 +3871,7 @@ Press ENTER to continue... ''')
           if a.status_code == 204:
               print(f"{Fore.GREEN}[{Fore.WHITE}>{Fore.GREEN}] {Fore.WHITE}Reaction {org}")
           else:
-              print(f"{Fore.RED}[{Fore.WHITE}!{Fore.RED}] {Fore.WHITE}Error")
+              print(f"{Fore.MAGENTA}[{Fore.WHITE}!{Fore.MAGENTA}] {Fore.WHITE}Error")
       
       tokens = open('tokens.txt', 'r').read().splitlines()
       chd = input(f"""{Fore.GREEN}[{Fore.WHITE}+{Fore.GREEN}] {Fore.WHITE}Channel ID: """)
@@ -3887,7 +3887,7 @@ Press ENTER to continue... ''')
       exit = clear()
       exit = spammer()
 
-    elif option2 in ['<']:
+    elif option2 in ['P','p']:
       tool()
       return
     
@@ -3895,7 +3895,7 @@ Press ENTER to continue... ''')
       print("Error, Invalid Option")
 
 
-    while __name__ == '__main__' and option2 not in ['<']:
+    while __name__ == '__main__' and option2 not in ['P','p']:
       print(Fore.WHITE)
       os.system('pause')
       tool()
@@ -3963,7 +3963,7 @@ Press ENTER to continue... ''')
     settings()
   elif options in ['UPD','upd']:
     search_for_updates()
-  elif options in ['>']:
+  elif options in ['N','n']:
     option2()
   else:
     print("Error, Invalid Option")
