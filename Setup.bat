@@ -1,24 +1,23 @@
 @echo off
-title Python 3.11.14 Verification and Library Installation
+title Python 3.11.6 Verification and Library Installation
 cls
 
+powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Host '+' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Green -NoNewline; Write-Host ' Checking for Python 3.11.6'"
 
-powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Host '+' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Green -NoNewline; Write-Host ' Checking for Python 3.11.14'"
-
-py -3.11.14 --version >nul 2>&1
-if errorlevel 1 (
+for /f "tokens=2" %%v in ('py -3.11 --version 2^>nul') do set "PY_VER=%%v"
+if "%PY_VER%" neq "3.11.6" (
     echo.
-    powershell -Command "Write-Host '[' -ForegroundColor Red -NoNewline; Write-Host 'ERROR' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Red -NoNewline; Write-Host ' Python 3.11.14 is not installed on this system.'"
-    powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Host '+' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Green -NoNewline; Write-Host ' Please install Python 3.11.14 and run this script again.'"
-    powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Host '+' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Green -NoNewline; Write-Host ' https://www.python.org/downloads/release/python-31114/'"
+    powershell -Command "Write-Host '[' -ForegroundColor Red -NoNewline; Write-Host 'ERROR' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Red -NoNewline; Write-Host ' Python 3.11.6 is not installed on this system.'"
+    powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Host '+' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Green -NoNewline; Write-Host ' Please install Python 3.11.6 and run this script again.'"
+    powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Host '+' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Green -NoNewline; Write-Host ' https://www.python.org/downloads/release/python-3116/'"
     echo.
     pause
     exit /b
 )
 
-powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Host '+' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Green -NoNewline; Write-Host ' Python 3.11.14 detected successfully.'"
+powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Host '+' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Green -NoNewline; Write-Host ' Python 3.11.6 detected successfully.'"
 
-set PYTHON=py -3.11.14
+set PYTHON=py -3.11
 
 powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Host '+' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Green -NoNewline; Write-Host ' Installing required libraries'"
 
@@ -31,7 +30,7 @@ for %%L in (%LIBRARIES%) do (
 
 (
     echo @echo off
-    echo py -3.11.14 "Menu.py"
+    echo py -3.11 "Menu.py"
     echo pause
 ) > Start.bat
 
