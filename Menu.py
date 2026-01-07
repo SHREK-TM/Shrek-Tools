@@ -1792,7 +1792,7 @@ def tool():
     whichserver = int(input(f"""
   {Fore.GREEN}[{Fore.WHITE}1{Fore.GREEN}] {Fore.WHITE}Shrek™ Discord server
   {Fore.GREEN}[{Fore.WHITE}2{Fore.GREEN}] {Fore.WHITE}Shrek™ Github
-  {Fore.GREEN}[{Fore.WHITE}2{Fore.GREEN}] {Fore.WHITE}Shrek™ Founder  
+  {Fore.GREEN}[{Fore.WHITE}3{Fore.GREEN}] {Fore.WHITE}Shrek™ Founder  
   {Fore.GREEN}[{Fore.WHITE}0{Fore.GREEN}] EXIT
 
 
