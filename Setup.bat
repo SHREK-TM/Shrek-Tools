@@ -1,5 +1,5 @@
 @echo off
-title Python 3.11.6 Verification and Library Installation
+title Python 3.11 Verification and Library Installation
 cls
 
 powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Host '+' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Green -NoNewline; Write-Host ' Checking for Python 3.11.6'"
@@ -8,8 +8,16 @@ for /f "tokens=2" %%v in ('py -3.11 --version 2^>nul') do set "PY_VER=%%v"
 if "%PY_VER%" neq "3.11.6" (
     echo.
     powershell -Command "Write-Host '[' -ForegroundColor Red -NoNewline; Write-Host 'ERROR' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Red -NoNewline; Write-Host ' Python 3.11.6 is not installed on this system.'"
-    powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Host '+' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Green -NoNewline; Write-Host ' Please install Python 3.11.6 and run this script again.'"
-    powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Host '+' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Green -NoNewline; Write-Host ' https://www.python.org/downloads/release/python-3116/'"
+    powershell -Command "Write-Host '[' -ForegroundColor Yellow -NoNewline; Write-Host '!' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Yellow -NoNewline; Write-Host ' Please install Python 3.11.6 using one of the links below:'"
+
+    echo.
+    powershell -Command "Write-Host 'Download Windows installer (64-bit):' -ForegroundColor Green"
+    powershell -Command "Write-Host 'https://www.python.org/ftp/python/3.11.6/python-3.11.6-amd64.exe' -ForegroundColor Cyan"
+
+    echo.
+    powershell -Command "Write-Host 'Download Windows installer (32-bit):' -ForegroundColor Green"
+    powershell -Command "Write-Host 'https://www.python.org/ftp/python/3.11.6/python-3.11.6.exe' -ForegroundColor Cyan"
+
     echo.
     pause
     exit /b
@@ -41,4 +49,3 @@ if exist Start.bat (
 )
 
 pause
-
