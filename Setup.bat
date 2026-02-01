@@ -38,7 +38,7 @@ set PYTHON=py -3.11
 
 powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Host '+' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Green -NoNewline; Write-Host ' Installing required Python libraries...'"
 
-set LIBRARIES=setuptools==65.5.0 pip==22.3.1 wheel requests==2.26.0 colorama selenium==4.0.0 discord.py==2.3.2 pyinstaller qrcode python-http-client charset_normalizer==2.0.10 2captcha-python beautifulsoup4 pylibcheck pyperclip pypiwin32 packaging keyboard colored PyNaCl easygui tasksio colour pillow psutil emoji httpx tqdm websocket-client webdriver-manager pystyle pyautogui pylibcheck
+set LIBRARIES=setuptools==65.5.0 pip==22.3.1 wheel requests==2.26.0 colorama selenium==4.0.0 discord.py==2.3.2 pyinstaller qrcode python-http-client charset_normalizer==2.0.10 2captcha-python discum emoji beautifulsoup4 pylibcheck pyperclip pypiwin32 packaging keyboard colored PyNaCl easygui tasksio colour pillow psutil emoji httpx tqdm websocket-client webdriver-manager pystyle pyautogui pylibcheck
 
 for %%L in (%LIBRARIES%) do (
     powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Host '+' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Green -NoNewline; Write-Host ' Installing %%L ...'"
@@ -57,3 +57,4 @@ powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Hos
 
 start cmd /k Start.bat
 pause
+
