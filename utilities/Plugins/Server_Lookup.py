@@ -88,11 +88,10 @@ def fetch_data(option):
 [{Fore.GREEN}Region{Fore.RESET}]    :   {response['region']}
 [{Fore.GREEN}Icon URL{Fore.RESET}]  :   https://cdn.discordapp.com/icons/{guildId}/{response['icon']}.webp?size=256
 """)
-        os.system('pause')
-        tool()
+        return
 
     elif option == '0':
-        tool()
+        return
 
 if __name__ == '__main__':
     fetch_data(option)
