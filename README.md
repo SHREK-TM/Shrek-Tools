@@ -12,7 +12,6 @@
 [![Stars](https://img.shields.io/github/stars/SHREK-TM/Shrek-Tools?color=3bc400&style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHREK-TM/Shrek-Tools/stargazers)
 [![Forks](https://img.shields.io/github/forks/SHREK-TM/Shrek-Tools?color=3bc400&style=for-the-badge&logoColor=white)](https://github.com/SHREK-TM/Shrek-Tools/network)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-3bc400?style=for-the-badge&logo=discord&logoColor=re)](https://discord.gg/W6z9SQgvqc)
-[![License](https://img.shields.io/github/license/SHREK-TM/Shrek-Tools?color=3bc400&style=for-the-badge)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.11.6-3bc400?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 <br>
