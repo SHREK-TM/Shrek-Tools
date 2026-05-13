@@ -85,22 +85,14 @@ M = multi-option (Exemple: [1] TOKEN NUKERS)
 ### Installation⚡
 
 1-Download Shrek-Tools.zip
-
 2-Extract File
-
 3-Finally just run Setup.bat and wait for it to complete.
 
 Enjoy!
 
-NOTE: When Opening Shrek-Tools Just Tap "Start.bat" to Open Everytime!
-NOTE: Make sure you have Python 3.11+ and Added to Path.
+NOTE: When Opening Shrek-Tools Just Tap "Setup.bat" to Open Everytime!
+NOTE: Make sure you have Python 3.11.6 and Added to Path.
 
-## Disclaimer❗
-
-|Shrek-Tools was made for Educational purposes|
-|-------------------------------------------------|
-This project was created only for good purposes and personal use.
-By using Shrek-Tools, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
 ## License 📃
 
