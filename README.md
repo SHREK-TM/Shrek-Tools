@@ -1,7 +1,8 @@
+
 <br/>
 <p align="center">
   <a href="https://github.com/SHREK-TM/Shrek-Tools">
-    <img src="https://github.com/SHREK-TM/IMAGE_REPO_SHREK/blob/main/SHREK%20PP.jpg?raw=true" alt="Logo" width="150" height="150">
+    <img width="150" height="150" alt="shrek-pp" src="https://github.com/user-attachments/assets/f126b7a3-35ae-4fb8-ae48-f2fdd2b7fe6c" />
   </a>
 
   <h3 align="center">🟢 Shrek-Tools</h3>
