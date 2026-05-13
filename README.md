@@ -4,20 +4,19 @@
     <img width="150" height="150" alt="shrek-pp" src="https://github.com/user-attachments/assets/f126b7a3-35ae-4fb8-ae48-f2fdd2b7fe6c" />
   </a>
 
-  <h3 align="center">🟢 Shrek-Tools</h3>
+  <h3 align="center">Shrek-Tools</h3>
 
-<p align="center">  <a href="https://discord.gg/JKsRYZ244U"><img width="100" height="50" alt="SHREKDISCORD" src="https://github.com/user-attachments/assets/1c01c46f-aee1-44bd-8163-7dcf3d9f9963" /></a>
-</p>
+<div align="center">
+<br> 
+  
+[![Stars](https://img.shields.io/github/stars/SHREK-TM/Shrek-Tools?color=3bc400&style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHREK-TM/Shrek-Tools/stargazers)
+[![Forks](https://img.shields.io/github/forks/SHREK-TM/Shrek-Tools?color=3bc400&style=for-the-badge&logoColor=white)](https://github.com/SHREK-TM/Shrek-Tools/network)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-3bc400?style=for-the-badge&logo=discord&logoColor=re)](https://discord.gg/W6z9SQgvqc)
+[![License](https://img.shields.io/github/license/SHREK-TM/Shrek-Tools?color=3bc400&style=for-the-badge)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.11.6-3bc400?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-<p align="center">
-  <img src="https://img.shields.io/github/forks/SHREK-TM/Shrek-Tools?style=flat&label=Forks&color=3bc400">
-  <img src="https://img.shields.io/github/stars/SHREK-TM/Shrek-Tools?style=flat&label=Stars&color=3bc400">
-  <img src="https://img.shields.io/github/repo-size/SHREK-TM/Shrek-Tools?label=Size&color=3bc400">
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/JKsRYZ244U">
-
+<br>
+</div>
 
 # Preview 📸
 <p align="center">
