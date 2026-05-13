@@ -1,4 +1,3 @@
-
 <br/>
 <p align="center">
   <a href="https://github.com/SHREK-TM/Shrek-Tools">
@@ -7,7 +6,7 @@
 
   <h3 align="center">🟢 Shrek-Tools</h3>
 
-<p align="center">  <a href="https://discord.gg/JKsRYZ244U"><img width="100" height="50" src="https://github.com/SHREK-TM/IMAGE_REPO_SHREK/blob/main/SHREKDISCORD.png?raw=true"></a>
+<p align="center">  <a href="https://discord.gg/JKsRYZ244U"><img width="100" height="50" alt="SHREKDISCORD" src="https://github.com/user-attachments/assets/1c01c46f-aee1-44bd-8163-7dcf3d9f9963" /></a>
 </p>
 
 <p align="center">
@@ -22,10 +21,10 @@
 
 # Preview 📸
 <p align="center">
-<img src="https://github.com/SHREK-TM/IMAGE_REPO_SHREK/blob/main/Menu1.png?raw=true"> 
+<img width="1110" height="621" alt="menu1" src="https://github.com/user-attachments/assets/03603d41-53c8-4b28-adc9-96184e544cd3" />
 </p>
 <p align="center">
-<img src="https://github.com/SHREK-TM/IMAGE_REPO_SHREK/blob/main/Menu2.png?raw=true"> 
+<img width="1108" height="623" alt="menu2" src="https://github.com/user-attachments/assets/e10e2fdd-86fc-4c40-9089-a316571ed9da" />
 </p>
 
 
