@@ -109,13 +109,13 @@ If you find this project useful and would like to show your support, you can mak
 
 •Bitcoin (BTC):
 ```
-bc1ql0as4mpmhwy7fr352dy9jekftpye5l2egl46f2
+bc1qu7sz9c59ghfymldpwluwdqly6y8nxtgq8s9eqk
 ```
 •Ethereum (ETH):
 ```
-0x0C143Ee5b0CAa2633A4Fd1CB34BBE98Ed9597B34
+0xC99eB3F1e29fAC3DaabbEddaB4a566e509903058
 ```
 •Litecoin (LTC):
 ```
-ltc1q4ef922g6xf2464l6d2kp5942ngy869u4galtug
+ltc1qn43mzxjlgmllpqtuuc6h92wxqk8yrqgaw6sv76
 ```
