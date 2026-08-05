@@ -23,7 +23,7 @@ if NOT "%PY_VER%"=="3.11.6" (
     )
 
     powershell -Command "(New-Object Net.WebClient).DownloadFile('%PY_URL%', 'python_installer.exe')"
-    python_installer.exe /quiet InstallAllUsers=1 PrependPath=1 Include_tcltk=1
+    start /wait python_installer.exe /quiet InstallAllUsers=1 PrependPath=1 Include_tcltk=1
 
     if errorlevel 1 (
         powershell -Command "Write-Host '[' -ForegroundColor Red -NoNewline; Write-Host '!' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Red -NoNewline; Write-Host ' Python install failed!'"
@@ -75,6 +75,7 @@ powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Hos
 powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Host '+' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Green -NoNewline; Write-Host ' Installing all libraries...'"
 
 py -3.11 -m pip install -r requirements.txt --quiet
+py -3.11 -m pip install tasksio
 
 if errorlevel 1 (
     powershell -Command "Write-Host '[' -ForegroundColor Yellow -NoNewline; Write-Host '!' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Yellow -NoNewline; Write-Host ' Some libraries may have failed, check output above.'"
