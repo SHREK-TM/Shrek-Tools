@@ -101,7 +101,7 @@ NOTE: Make sure you have Python 3.11.6 and Added to Path.
 Distributed under the MIT License. See [LICENSE](https://github.com/SHREK-TM/Shrek-Tools/blob/main/LICENSE) for more information
 
 # Credits 🔗
-• Made by: neyrox_space
+• Made by: sypher.x7
 <a href="https://discord.gg/JKsRYZ244U">DISCORD</a>
 
 # Support the Project 💎
