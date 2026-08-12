@@ -114,9 +114,9 @@ def tool():
     print(Fore.GREEN + '                 ╚══════════════════════════════╩══════════════════════════╩══════════════════════════════╝')
     print(Fore.GREEN +f'                                                                                          {Fore.GREEN}[{Fore.WHITE}N{Fore.GREEN}] {Fore.WHITE}NEXT PAGE')
     print(Fore.GREEN + '')
-    print(f'  {Fore.WHITE}┌──<{user_name}{Fore.GREEN}@{Fore.WHITE}Shrek>─{Fore.GREEN}[{Fore.WHITE}+{Fore.GREEN}]')
+    print(f'  {Fore.WHITE}╭──<{user_name}{Fore.GREEN}@{Fore.WHITE}Shrek>─{Fore.GREEN}[{Fore.WHITE}+{Fore.GREEN}]')
     global options
-    options = input(f'  {Fore.WHITE}└───{Fore.GREEN}➤{Fore.WHITE} ')
+    options = input(f'  {Fore.WHITE}╰───{Fore.GREEN}➤{Fore.WHITE} ')
 
   options1()
 
