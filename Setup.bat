@@ -91,6 +91,8 @@ if errorlevel 1 (
 
 powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Host '+' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Green -NoNewline; Write-Host ' Start.bat created successfully.'"
 
+start cmd /k Start.bat
+
 start https://github.com/SHREK-TM/Shrek-Tools
 start "" "utilities\assets\Star.png"
 
