@@ -104,18 +104,3 @@ Distributed under the MIT License. See [LICENSE](https://github.com/SHREK-TM/Shr
 • Made by: sypher.x7
 <a href="https://discord.gg/JKsRYZ244U">DISCORD</a>
 
-# Support the Project 💎
-If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:
-
-•Bitcoin (BTC):
-```
-bc1qu7sz9c59ghfymldpwluwdqly6y8nxtgq8s9eqk
-```
-•Ethereum (ETH):
-```
-0xC99eB3F1e29fAC3DaabbEddaB4a566e509903058
-```
-•Litecoin (LTC):
-```
-ltc1qn43mzxjlgmllpqtuuc6h92wxqk8yrqgaw6sv76
-```
