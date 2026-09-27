@@ -118,22 +118,34 @@ if errorlevel 1 (
     powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Host '+' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Green -NoNewline; Write-Host ' Toutes les bibliotheques ont ete installees avec succes.'"
 )
 
-:: Création du fichier lanceur Start.bat
+:: Génération du fichier Start.bat avec élévation Admin (UAC)
 (
     echo @echo off
+    echo setlocal
+    echo.
+    echo title Shrek Multi Tools ^^| PRESS ENTRE
+    echo.
+    echo net session ^>nul 2^>^&1
+    echo if %%errorLevel%% == 0 goto :admin
+    echo.
+    echo powershell -Command "Start-Process '%%~f0' -Verb RunAs"
+    echo exit /b
+    echo.
+    echo :admin
     echo cd /d "%%~dp0"
     echo py -3.11 "Menu.py"
     echo pause
+    echo endlocal
 ) > "%~dp0Start.bat"
 
 powershell -Command "Write-Host '[' -ForegroundColor Green -NoNewline; Write-Host '+' -ForegroundColor White -NoNewline; Write-Host ']' -ForegroundColor Green -NoNewline; Write-Host ' Start.bat cree avec succes.'"
 
-:: Ouverture du projet et des liens
+:: Lancement du projet et des ressources
 start cmd /k "%~dp0Start.bat"
 start https://github.com/SHREK-TM/Shrek-Tools
 
-if exist "%~dp0utilities\assets\Star.png" (
-    start "" "%~dp0utilities\assets\Star.png"
+if exist "%~dp0input\Star.png" (
+    start "" "%~dp0input\star.png"
 )
 
 pause
