@@ -1,0 +1,65 @@
+{
+    "language": "fr",
+    "theme": {
+        "bg_color": "#0d001a",
+        "fg_color": "#ffffff",
+        "sidebar_color": "#050010",
+        "accent_color": "#a78bfa",
+        "border_color": "#4c1d95",
+        "text_color": "#c084fc",
+        "secondary_text_color": "#94a3b8"
+    },
+    "auto_reply": {
+        "active": false,
+        "delay": 5.0,
+        "triggers": [
+            "salut",
+            "cc",
+            "yo"
+        ],
+        "response": "yo bg \u00e7a va ?",
+        "reply_rules": [],
+        "auto_sets": [
+            {
+                "triggers": [
+                    "salut",
+                    "cc",
+                    "yo"
+                ],
+                "response": "yo bg \u00e7a va ?"
+            },
+            {
+                "triggers": [],
+                "response": ""
+            },
+            {
+                "triggers": [],
+                "response": ""
+            },
+            {
+                "triggers": [],
+                "response": ""
+            },
+            {
+                "triggers": [],
+                "response": ""
+            }
+        ],
+        "active_set_index": 0,
+        "active_sets": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    "profiles": [],
+    "profile_rotation_interval": 3600,
+    "profile_rotation_range": [
+        0,
+        0
+    ],
+    "profile_schedule": [],
+    "message_schedule": []
+}
