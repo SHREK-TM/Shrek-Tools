@@ -19,10 +19,10 @@
 
 # Preview 📸
 <p align="center">
-
+<img width="1113" height="628" alt="Screenshot 2026-09-27 140504" src="https://github.com/user-attachments/assets/a3992d99-5c5d-432a-99f5-bfdb6da2ea29" />
 </p>
 <p align="center">
-
+<img width="1116" height="626" alt="Screenshot 2026-09-27 140513" src="https://github.com/user-attachments/assets/63a92b1b-43dd-4016-9a9d-e8e1828eb091" />
 </p>
 
 
