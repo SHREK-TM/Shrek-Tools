@@ -19,10 +19,10 @@
 
 # Preview 📸
 <p align="center">
-<img width="1110" height="621" alt="menu1" src="https://github.com/user-attachments/assets/03603d41-53c8-4b28-adc9-96184e544cd3" />
+
 </p>
 <p align="center">
-<img width="1108" height="623" alt="menu2" src="https://github.com/user-attachments/assets/e10e2fdd-86fc-4c40-9089-a316571ed9da" />
+
 </p>
 
 
