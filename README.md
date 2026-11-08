@@ -50,5 +50,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/SHREK-TM/Shr
 
 # Credits 🔗
 • Made by: sypher.x7
-<a href="https://discord.gg/JKsRYZ244U">DISCORD</a>
+<a href="https://discord.gg/JKsRYZ244U">DISCORD</a> 
 
